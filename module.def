@@ -1,0 +1,4 @@
+module:"skTest"
+path:"src/view/sk"
+module:"viewa"
+path:"src/view/viewA"
